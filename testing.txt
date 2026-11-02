@@ -3,4 +3,5 @@ hdav,hjcds,hvdhjcvdc
 hwbsbsnsmamamanansnnans
 adedaedeadea
 log-demo: line 1
-gfxbxnngfx
+gfxbxnngfx\n revert-demo: bad idea
+reset-demo: C1
